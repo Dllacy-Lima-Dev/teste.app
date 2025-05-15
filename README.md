@@ -1,11 +1,10 @@
 **Chat App ✅**
 
-![Descrição da image](./src/chat-app.png)
-
-**💡 Informações sobre o projeto**
 Projeto de comunicação em Sistemas Distribuidos!
 Aplicação Front End e Back End de comunicação de entre processos via Sockets utiliando API REST!
 Realização de simulação de um cenario real de troca de informações entre cliente e servidor!
+
+![Descrição da image](./src/chat-app.png)
 
 **📋 Requisitos do Sistemas**
 API REST utilizando a lingagem de programação Typescript!
@@ -36,25 +35,18 @@ Requisição de serviços!
 
 Certifique-se de que o **Node.js** esteja instalado na sua máquina.  
 
-**Passo 01** – Após realizar o download, abra o terminal da sua IDE e digite o seguinte comando:  
-`git clone <url-do-repositório>`
+**Passo 01** – Após realizar o download, abra o terminal da sua IDE e digite o seguinte comando:  `git clone <url-do-repositório>`
 
-**Passo 02** – Após realizar a clonagem na sua máquina local, entre na pasta:  
-`cd api`  
-e instale as dependências com:  
-`npm i`
+**Passo 02** – Após realizar a clonagem na sua máquina local, entre na pasta:  `cd api`  
+e instale as dependências com:  `npm i`
 
-**Passo 03** – Em seguida, rode o seguinte comando para instalar o TypeScript globalmente:  
-`npm install -g typescript`
+**Passo 03** – Em seguida, rode o seguinte comando para instalar o TypeScript globalmente:  `npm install -g typescript`
 
-**Passo 04** – Agora, compile o projeto com o comando:  
-`tsc`
+**Passo 04** – Agora, compile o projeto com o comando:  `tsc`
 
-**Passo 05** – Dentro da pasta `api`, crie um arquivo chamado `.env` e adicione o seguinte conteúdo:  
-`JWT_SECRET="oSistemaEhFalho"`
+**Passo 05** – Dentro da pasta `api`, crie um arquivo chamado `.env` e adicione o seguinte conteúdo:  `JWT_SECRET="oSistemaEhFalho"`
 
-**Passo 06** – Para iniciar o servidor, execute:  
-`npm start`
+**Passo 06** – Para iniciar o servidor, execute:  `npm start`
 
 **Passo 07** – Por fim, vá até a pasta `front` e abra o arquivo `index.html`.  
 Você pode utilizar a extensão **Live Server** ou abrir diretamente no navegador pelo link:  
