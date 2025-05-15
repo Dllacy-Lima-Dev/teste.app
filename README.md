@@ -34,11 +34,12 @@ Requisição de serviços!
 
 **🛠️ Instalação**
 
-Certifique-se de que o **Node.js** esteja instalado na sua máquina.
+Certifique-se de que o **Node.js** esteja instalado na sua máquina.\\  
 **Passo 01** – Após realizar o download, abra o terminal da sua IDE e digite o seguinte comando:  
-`git clone <url-do-repositório>`
+`git clone <url-do-repositório>`\\  
 **Passo 02** – Após realizar a clonagem na sua máquina local, entre na pasta `api` e digite o seguinte comando para instalar as dependências do projeto:  
 `npm i`
+
 
 **👨‍💻 Autores**
 **Nome:** Dllacy de Lima Rocha
