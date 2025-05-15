@@ -4,8 +4,6 @@ Projeto de comunicação em Sistemas Distribuidos!
 Aplicação Front End e Back End de comunicação de entre processos via Sockets utiliando API REST!
 Realização de simulação de um cenario real de troca de informações entre cliente e servidor!
 
----
-
 ![Descrição da image](./src/chat-app.png)
 
 ## Requisitos do Sistemas
