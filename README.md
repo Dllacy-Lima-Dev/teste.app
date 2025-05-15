@@ -34,15 +34,25 @@ Requisição de serviços!
 
 **🛠️ Instalação**
 
-Certifique-se de que o **Node.js** esteja instalado na sua máquina.\\  
-**Passo 01** – Após realizar o download, abra o terminal da sua IDE e digite o seguinte comando:  
-`git clone <url-do-repositório>`\\  
-**Passo 02** – Após realizar a clonagem na sua máquina local, entre na pasta `api` e digite o seguinte comando para instalar as dependências do projeto:  `npm i`\\
-**Passo 03** – Após realizar essa etapa rode o seguinte comando:  `npm install -g typescript`\\
-**Passo 04** – O passo seguinte é este comando:  `tsc`\\
-**Passo 05** – Dentro da pasta  `api` ainda crie o seguinte arquivo `.env` e cole isso dentro `JWT_SECRET="oSistemaEhFalho"` depois só salvar\\
-**Passo 06** – Para Startar o servidor o comando é `npm start`\\
-**Passo 07** – Logo em seguinda na pasta `front` só abrir o arquivo `index.html` pode ser feito utilizando utilizando a extensão `live Server` pu então rodar a aplicação direto no https da sua pagina web com o seguinte comando `http://127.0.0.1:5500/chat-app/front/index.html`\\
+## 🛠️ Instalação
+
+Certifique-se de que o **Node.js** esteja instalado na sua máquina.  
+
+**Passo 01** – Após realizar o download, abra o terminal da sua IDE e digite o seguinte comando:  `git clone <url-do-repositório>`
+
+**Passo 02** – Após realizar a clonagem na sua máquina local, entre na pasta `cd api` e digite o comando:  `npm i`
+
+**Passo 03** – Em seguida, rode o seguinte comando para instalar o TypeScript globalmente:  `npm install -g typescript`
+
+**Passo 04** – Agora, compile o projeto com o comando:  `tsc`
+
+**Passo 05** – Dentro da pasta `api`, crie um arquivo chamado `.env` e adicione o seguinte conteúdo:  `JWT_SECRET="oSistemaEhFalho"`
+
+**Passo 06** – Para iniciar o servidor, execute:  `npm start`
+
+**Passo 07** – Por fim, vá até a pasta `front` e abra o arquivo `index.html`.  
+Você pode utilizar a extensão **Live Server** ou abrir diretamente no navegador pelo link:  
+`http://127.0.0.1:5500/chat-app/front/index.html`
 
 **👨‍💻 Autores**
 **Nome:** Dllacy de Lima Rocha
