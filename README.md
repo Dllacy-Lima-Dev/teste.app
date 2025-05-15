@@ -32,15 +32,15 @@ Requisição de serviços!
 **JWT (JSON Web Token)**: Tecnologia usada para autenticação segura entre cliente e servidor, baseada em tokens.  
 **HTML**: Linguagem de marcação essencial para a estruturação de conteúdo na web.
 
+**🛠️ Instalação**
 
-## **🛠️ Instalação**
-Certifique-se de que o Node.js esteja instalado na sua máquina.
-Para acessar a pasta do projeto, execute o comando:
-`cd nome-da-pasta`
-Para rodar o projeto localmente, utilize o comando:
-`npm run dev`
+Certifique-se de que o **Node.js** esteja instalado na sua máquina.
+**Passo 01** – Após realizar o download, abra o terminal da sua IDE e digite o seguinte comando:  
+`git clone <url-do-repositório>`
+**Passo 02** – Após realizar a clonagem na sua máquina local, entre na pasta `api` e digite o seguinte comando para instalar as dependências do projeto:  
+`npm i`
 
-## **👨‍💻 Autor**
+**👨‍💻 Autores**
 **Nome:** Dllacy de Lima Rocha
 
 ## **📜 Licença**
