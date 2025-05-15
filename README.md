@@ -1,22 +1,35 @@
-## **Chat App ✅**
+**Chat App ✅**
 
 ![Descrição da image](./src/chat-app.png)
 
-## **💡 Informações sobre o projeto**
-Tela de login moderna e responsiva 2025. Para diferentes tipos de dispositivos utilizando todo o poder do Tailwind CSS.
+**💡 Informações sobre o projeto**
+Projeto de comunicação em Sistemas Distribuidos!
+Aplicação Front End e Back End de comunicação de entre processos via Sockets utiliando API REST!
+Realização de simulação de um cenario real de troca de informações entre cliente e servidor!
 
-## **✨ Destaques do projeto**
-- *Design responsivo que se adapta a diferentes tamanhos de tela.*
-- *Desenvolvimento com **Next.js**, **Node.js**, e **TypeScript** para uma experiência de aplicação moderna e robusta.*
-- *Estilização utilizando **Tailwind CSS** para construir layouts customizados de forma rápida e eficiente.*
-- *Adoção de melhores práticas de front-end, garantindo uma interface limpa e acessível.*
-- *Utilização de tecnicas de componentização utilizando interface.*
+**📋 Requisitos do Sistemas**
+API REST utilizando a lingagem de programação Typescript!
+Arquitetura do Sistema: Cliente-Servidor!
+**📋 Funções**
+Envio e recebimento de mensagens!
+Requisição de serviços!
 
-## **⚙️ Tecnologias utilizadas**
-- **Next.js**: Framework Next JS para desenvolvimento de aplicações web.
-- **Node.js**: Ambiente de execução para JavaScript (TypeScript) no lado do servidor.
-- **TypeScript**: Superset do JavaScript para adicionar tipagem estática.
-- **Tailwind CSS**: Framework de CSS utilitário para uma construção rápida e customizável de layouts.
+**✨ Destaques do projeto**
+*Design responsivo que se adapta a diferentes tamanhos de tela.*
+*Desenvolvimento com**Node.js**, e **TypeScript** para uma experiência de aplicação moderna e robusta.*
+*Estilização utilizando **Tailwind CSS** para construir layouts customizados de forma rápida e eficiente.*
+*Adoção de melhores práticas de front-end, garantindo uma interface limpa e acessível.*
+*Utilização de tecnicas de componentização utilizando interface.*
+
+**⚙️ Tecnologias utilizadas**
+**NODE JS**: Ambiente de execução JavaScript no lado do servidor, ideal para construir aplicações escaláveis e performáticas.
+**SqLite3**: Banco de dados relacional leve, ideal para aplicações pequenas a médias, com armazenamento local em arquivos.
+**JavaScript**: Linguagem de programação utilizada para desenvolver funcionalidades dinâmicas no lado cliente e servidor.
+**TypeScript**: Superset do JavaScript que adiciona tipagem estática, facilitando o desenvolvimento mais seguro e organizado.
+**Tailwind CSS**: Framework utilitário de CSS que permite construir interfaces modernas e responsivas com agilidade.
+**SEQUELIZE**: ORM (Object Relational Mapping) para Node.js que facilita a interação com bancos de dados relacionais como o SQLite.
+**JWT**: Tecnologia usada para autenticação segura entre cliente e servidor, baseada em tokens.
+**HTML**: Linguagem de marcação essencial para a estruturação de conteúdo na web.
 
 ## **🛠️ Instalação**
 Certifique-se de que o Node.js esteja instalado na sua máquina.
