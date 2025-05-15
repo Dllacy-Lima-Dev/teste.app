@@ -1,4 +1,4 @@
-## Chat App
+## ✅ Chat App
 
 Projeto de comunicação em Sistemas Distribuidos!
 Aplicação Front End e Back End de comunicação de entre processos via Sockets utiliando API REST!
@@ -9,16 +9,12 @@ Realização de simulação de um cenario real de troca de informações entre c
 ## Requisitos do Sistemas
 
 API REST utilizando a linguagem de programação **TypeScript**!  
-Arquitetura do Sistema: **Cliente-Servidor**!
-
----
+Arquitetura do Sistema: **Cliente-Servidor**!  
 
 ## Funções
 
 Envio e recebimento de mensagens!  
-Requisição de serviços!
-
----
+Requisição de serviços!  
 
 ## ⚙️ Tecnologias utilizadas
 
@@ -30,8 +26,6 @@ Requisição de serviços!
 **Sequelize**: ORM (Object Relational Mapping) para Node.js que facilita a interação com bancos de dados relacionais como o SQLite.  
 **JWT (JSON Web Token)**: Tecnologia usada para autenticação segura entre cliente e servidor, baseada em tokens.  
 **HTML**: Linguagem de marcação essencial para a estruturação de conteúdo na web.
-
----
 
 ## 🛠️ Instalação
 
@@ -65,11 +59,7 @@ Você pode utilizar a extensão **Live Server** ou abrir diretamente no navegado
 **Nome:** Erick Sabio  
 **Nome:** Everson Diogo
 
----
-
 ## 📜 Licença**
 
 Este projeto está sob uma licença aberta. Isso significa que você pode usar, modificar, copiar e distribuir o código como quiser, sem precisar pedir permissão ou dar créditos ao autor.
 Use em projetos pessoais, escolares, comerciais ou qualquer outro propósito. O objetivo é compartilhar conhecimento e facilitar a vida de todos!
-
----
