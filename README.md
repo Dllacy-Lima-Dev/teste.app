@@ -21,15 +21,17 @@ Requisição de serviços!
 *Adoção de melhores práticas de front-end, garantindo uma interface limpa e acessível.*
 *Utilização de tecnicas de componentização utilizando interface.*
 
-**⚙️ Tecnologias utilizadas**
-**NODE JS**: Ambiente de execução JavaScript no lado do servidor, ideal para construir aplicações escaláveis e performáticas.
-**SqLite3**: Banco de dados relacional leve, ideal para aplicações pequenas a médias, com armazenamento local em arquivos.
-**JavaScript**: Linguagem de programação utilizada para desenvolver funcionalidades dinâmicas no lado cliente e servidor.
-**TypeScript**: Superset do JavaScript que adiciona tipagem estática, facilitando o desenvolvimento mais seguro e organizado.
-**Tailwind CSS**: Framework utilitário de CSS que permite construir interfaces modernas e responsivas com agilidade.
-**SEQUELIZE**: ORM (Object Relational Mapping) para Node.js que facilita a interação com bancos de dados relacionais como o SQLite.
-**JWT**: Tecnologia usada para autenticação segura entre cliente e servidor, baseada em tokens.
+## ⚙️ Tecnologias utilizadas
+
+**Node.js**: Ambiente de execução JavaScript no lado do servidor, ideal para construir aplicações escaláveis e performáticas.\\  
+**SQLite3**: Banco de dados relacional leve, ideal para aplicações pequenas a médias, com armazenamento local em arquivos.\\  
+**JavaScript**: Linguagem de programação utilizada para desenvolver funcionalidades dinâmicas no lado cliente e servidor.\\  
+**TypeScript**: Superset do JavaScript que adiciona tipagem estática, facilitando o desenvolvimento mais seguro e organizado.\\  
+**Tailwind CSS**: Framework utilitário de CSS que permite construir interfaces modernas e responsivas com agilidade.\\  
+**Sequelize**: ORM (Object Relational Mapping) para Node.js que facilita a interação com bancos de dados relacionais como o SQLite.\\  
+**JWT (JSON Web Token)**: Tecnologia usada para autenticação segura entre cliente e servidor, baseada em tokens.\\  
 **HTML**: Linguagem de marcação essencial para a estruturação de conteúdo na web.
+
 
 ## **🛠️ Instalação**
 Certifique-se de que o Node.js esteja instalado na sua máquina.
